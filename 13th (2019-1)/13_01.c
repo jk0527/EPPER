@@ -2,7 +2,7 @@
 #include <stdlib.h>
 // Sum of the given odd numbers
 // n: number of inputs
-// 1<=n<=100, 1<=temp<=1000
+// 1<=n<=100, 1<=temp<=1000 
 int main()
 {
 	int n, i, temp, sum = 0;
