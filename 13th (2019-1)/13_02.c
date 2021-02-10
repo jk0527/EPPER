@@ -2,7 +2,7 @@
 #include <stdlib.h>
 // Calculating money type and number of bill for change
 // 10, 50, 100, 500, 1000, 5000, 10000, 50000 (won) 
-// Payed cash: m, Price: n
+// Payed cash: m, Price: n 
 // 10 <= n <= m <= 100000
 int main()
 {
